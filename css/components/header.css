@@ -27,6 +27,7 @@ header {
     display: block;
     width: 95%;
     height: 100%;
+   
     border: 1px solid var(--tertiary-color);
     position: absolute;
     top: -1.5rem;
@@ -37,7 +38,7 @@ header {
   
   header .header__right .header__image .rodrigo {
     border-radius: 0.5rem;
-    min-width: 30rem;
+    min-width: -50rem;
     max-width: 75%;
   }
   
