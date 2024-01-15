@@ -5,6 +5,10 @@ header {
     gap: 4rem;
     scroll-margin-top: 20rem;
   }
+  .header__right {
+    width: 500px; /* Largura desejada */
+    height: 420px; /* Altura desejada */
+}
   
   header .header__left {
     max-width: 62rem;
