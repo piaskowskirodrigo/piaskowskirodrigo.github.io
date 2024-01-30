@@ -3,11 +3,13 @@
     text-align: center;
     padding: 6rem 2rem 1rem;
     max-width: 47rem;
+    
   }
   
   footer .footer__content .footer__contact span {
     display: block;
     font-weight: 500;
+    
   }
   
   footer .footer__content ul li {
@@ -21,4 +23,5 @@
   
   footer .footer__content .footer__copyright {
     font-size: 1.4rem;
+    
   }
